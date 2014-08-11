@@ -1,0 +1,58 @@
+# Logfile created on 2014-08-08 17:17:32 +0100 by logger.rb/44203
+
+Proceeding with CAS login for service "http://localhost:9292".
+
+Proceeding with CAS login for service "http://badguy.com".
+
+Login ticket 'LT-1407748596rbULayUi14Pw3JINQEt' successfully validated
+Credentials for username 'test' successfully validated using TestAuthenticator.
+Redirecting authenticated user 'test' at 'localhost' to service 'http://badguy.com'
+
+Ticket granting ticket 'TGC-1407748599rc-BB9juTi2PiV0xIe4' for user 'test' successfully validated.
+User 'test' authenticated based on ticket granting cookie. Redirecting to service 'http://badguy.com'.
+
+Ticket granting ticket 'TGC-1407748599rc-BB9juTi2PiV0xIe4' for user 'test' successfully validated.
+User 'test' authenticated based on ticket granting cookie. Redirecting to service 'http://badguy.com'.
+
+Ticket granting ticket 'TGC-1407748599rc-BB9juTi2PiV0xIe4' for user 'test' successfully validated.
+User 'test' authenticated based on ticket granting cookie. Redirecting to service 'http://localhost:9292'.
+
+Ticket 'ST-1407748614rwe-5fL13ul-MqQ26v1' for service 'http://localhost:9292' for user 'test' successfully validated.
+
+Proceeding with CAS login for service "http://localhost:9292".
+
+Login ticket 'LT-1407748641rOSn24fi2Xd3Wou27rR' successfully validated
+Credentials for username 'test' successfully validated using TestAuthenticator.
+Redirecting authenticated user 'test' at 'localhost' to service 'http://localhost:9292'
+
+Ticket 'ST-1407748681r6e-sbb534ohEE0rxce' for service 'http://localhost:9292' for user 'test' successfully validated.
+
+Ticket granting ticket 'TGC-1407748681rCbEv-YKUDGY-kja6Ig' for user 'test' successfully validated.
+User 'test' authenticated based on ticket granting cookie. Redirecting to service 'http://localhost:9292'.
+
+Ticket granting ticket 'TGC-1407748681rCbEv-YKUDGY-kja6Ig' for user 'test' successfully validated.
+User 'test' authenticated based on ticket granting cookie. Redirecting to service 'http://localhost:9292'.
+
+Ticket granting ticket 'TGC-1407748681rCbEv-YKUDGY-kja6Ig' for user 'test' successfully validated.
+User 'test' authenticated based on ticket granting cookie. Redirecting to service 'http://localhost:9292'.
+
+Proceeding with CAS login for service "http://localhost:9292".
+
+Proceeding with CAS login for service "http://stealyourtoken.com".
+
+Login ticket 'LT-1407748713rvSK-t6VGM-aDwthURi' successfully validated
+Credentials for username 'test' successfully validated using TestAuthenticator.
+Redirecting authenticated user 'test' at 'localhost' to service 'http://stealyourtoken.com'
+
+Ticket granting ticket 'TGC-1407748716rxlfMqznWmOI54z2sLq' for user 'test' successfully validated.
+User 'test' authenticated based on ticket granting cookie. Redirecting to service 'http://stealyourtoken.com'.
+
+Ticket granting ticket 'TGC-1407748716rxlfMqznWmOI54z2sLq' for user 'test' successfully validated.
+User 'test' authenticated based on ticket granting cookie. Redirecting to service 'http://stealyourtoken.com'.
+
+Ticket granting ticket 'TGC-1407748716rxlfMqznWmOI54z2sLq' for user 'test' successfully validated.
+User 'test' authenticated based on ticket granting cookie. Redirecting to service 'http://localhost:9292'.
+
+Ticket 'ST-1407748734rp2-MzGOgKgK6Ftv1jH' for service 'http://localhost:9292' for user 'test' successfully validated.
+
+Proceeding with CAS login for service "http://localhost:9292".
